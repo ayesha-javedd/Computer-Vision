@@ -1,7 +1,7 @@
 import cv2
 IMAGE_PATHS = [
-    "../Images/sample1.jpg",
-    "../Images/sample2.jpg",
+    "../Images/20160211_084607.jpg",
+    "../Images/20160211_084835.jpg",
 ]
 
 for path in IMAGE_PATHS:
